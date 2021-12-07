@@ -2681,8 +2681,8 @@
                     "secondary_nav_links": [
                         {
                             "type": "action",
-                            "label": "Tickets",
-                            "url": "thank-you",
+                            "label": "Discord",
+                            "url": "https://discord.com/channels/365582006698115073/597117993704620067",
                             "style": "primary",
                             "stackbit_model_type": "object"
                         }
