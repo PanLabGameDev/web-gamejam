@@ -2681,7 +2681,7 @@
                     "secondary_nav_links": [
                         {
                             "type": "action",
-                            "label": "Discord",
+                            "label": "GameJAM",
                             "url": "/",
                             "style": "primary",
                             "stackbit_model_type": "object"
