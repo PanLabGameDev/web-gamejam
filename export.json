@@ -2673,7 +2673,7 @@
                 "base_font": "sans-serif",
                 "header": {
                     "type": "header",
-                    "title": "Event",
+                    "title": "GameJAM",
                     "logo": "images/logo.svg",
                     "logo_alt": "Event logo",
                     "has_primary_nav": false,
