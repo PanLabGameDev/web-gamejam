@@ -2679,20 +2679,7 @@
                     "has_primary_nav": false,
                     "has_secondary_nav": true,
                     "secondary_nav_links": [
-                        {
-                            "type": "action",
-                            "label": "About",
-                            "url": "/about",
-                            "style": "link",
-                            "stackbit_model_type": "object"
-                        },
-                        {
-                            "type": "action",
-                            "label": "Sponsorship",
-                            "url": "/sponsorship",
-                            "style": "link",
-                            "stackbit_model_type": "object"
-                        },
+                        
                         {
                             "type": "action",
                             "label": "Tickets",
