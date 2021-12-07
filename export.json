@@ -2675,7 +2675,7 @@
                     "type": "header",
                     "title": "GameJAM",
                     "logo": "images/logo.svg",
-                    "logo_alt": "Event logo",
+                    "logo_alt": "PanLab logo",
                     "has_primary_nav": false,
                     "has_secondary_nav": true,
                     "secondary_nav_links": [
