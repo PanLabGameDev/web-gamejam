@@ -2682,7 +2682,7 @@
                         {
                             "type": "action",
                             "label": "Discord",
-                            "url": "https://discord.com/channels/365582006698115073/597117993704620067",
+                            "url": "/",
                             "style": "primary",
                             "stackbit_model_type": "object"
                         }
